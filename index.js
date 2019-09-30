@@ -15,8 +15,7 @@ const issue = {
   labels: []
 }
 
-const blogTemplate = `
----
+const blogTemplate = `---
 title: $TITLE$
 labels: $LABELS$
 ---
